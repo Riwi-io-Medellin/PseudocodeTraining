@@ -21,3 +21,15 @@ This repository contains a collection of exercises designed to strengthen your l
 2. Progress to **intermediate challenges** to refine your problem-solving skills.  
 3. Take on **advanced problems** to master algorithms and computational thinking.  
 4. Compare different solutions in **pseudocode and multiple languages**.  
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request to the branch ```develop```
+
+## License
+
+© 2025 Riwi. All rights reserved.
+
+The content of this project, including but not limited to text, images, graphics, and code, is the property of Riwi and is protected by copyright laws. It may not be reproduced, distributed, modified, or transmitted in any form or by any means without the prior written permission of Riwi.
+
+For inquiries regarding the use or distribution of this project, please contact Riwi at [formacion@riwi.com](mailto:formacion@riwi.com).
