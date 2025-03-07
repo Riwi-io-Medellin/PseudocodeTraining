@@ -26,6 +26,21 @@ This repository contains a collection of exercises designed to strengthen your l
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request to the branch ```develop```
 
+## File naming convention
+
+To maintain a clear order in the repository, follow the following format when naming files:
+
+- Use consecutive numbering followed by an underscore (`#_`).
+- Separate each word in the name with an underscore (`_`).
+
+### Example:
+
+1_file_name  
+2_other_example 
+3_third_document
+
+This standard facilitates the organization and search of files within the repository.
+
 ## License
 
 © 2025 Riwi. All rights reserved.
