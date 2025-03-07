@@ -1,0 +1,1 @@
+// Time in seconds ⏳ Requests a time (HH:MM:SS) and converts everything to seconds.

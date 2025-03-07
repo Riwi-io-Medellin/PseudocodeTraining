@@ -1,0 +1,1 @@
+// The wizard of numbers 🔢✨ Ask for a number and show double, triple and its square root.

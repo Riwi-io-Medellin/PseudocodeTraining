@@ -1,0 +1,1 @@
+// Discount calculator 🛒 Requests the price of a product and applies a 10% discount if it costs more than $100.
