@@ -1,0 +1,1 @@
+// Detecting digits 🔍 Ask for a number and count how many digits it has (use a loop).

@@ -1,0 +1,1 @@
+// Is it a palindrome? 🔄 Ask for a text and check if it reads the same backwards and forwards.

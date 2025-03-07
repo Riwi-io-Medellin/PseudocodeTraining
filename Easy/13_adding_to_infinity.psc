@@ -1,0 +1,1 @@
+// Adding to infinity.... (or 100) ➕ Adds numbers from 1 to 100 and displays the result (use a loop).

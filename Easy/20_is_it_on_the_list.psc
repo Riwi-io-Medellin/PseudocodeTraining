@@ -1,0 +1,1 @@
+// Is it on the list? ✅ Asks for a list of words and checks if a specific word is on it (use a list).

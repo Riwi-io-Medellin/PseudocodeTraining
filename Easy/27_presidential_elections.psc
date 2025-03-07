@@ -1,0 +1,1 @@
+// Presidential elections 🗳️ Simulates a vote where 5 people vote and displays the result.

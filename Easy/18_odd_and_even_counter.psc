@@ -1,0 +1,1 @@
+// Odd and even counter ⚖️ Ask for 10 numbers and show how many are even and how many are odd (use a list).

@@ -1,0 +1,1 @@
+// Stop whenever you want! ⛔ Asks for numbers until the user enters a negative number (use a loop).

@@ -1,0 +1,1 @@
+// Magic tables 🧙‍♂️ Ask for a number and display its multiplication table from 1 to 10 (use a loop).

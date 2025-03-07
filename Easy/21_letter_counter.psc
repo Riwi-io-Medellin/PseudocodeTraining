@@ -1,0 +1,1 @@
+// Letter counter 🔠 Ask for a word and count how many letters it has.
