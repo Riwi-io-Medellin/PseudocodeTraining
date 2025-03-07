@@ -1,0 +1,1 @@
+// The smart elevator 🏢 Requests a floor and checks if the elevator can go there (from 1 to 10, not counting the 4 for maintenance).
