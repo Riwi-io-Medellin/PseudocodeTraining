@@ -1,0 +1,1 @@
+// Letter counter 🔢 Ask for a sentence and count how many times the letter “a” appears.

@@ -1,0 +1,1 @@
+// Teacher 📚 Asks for student grades and calculates the average (use a list).

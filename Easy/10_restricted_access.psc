@@ -1,0 +1,1 @@
+// Restricted access 🔐 Asks for a password and checks if it is “secret123” to give access (use conditionals).

@@ -1,0 +1,1 @@
+// The architect 📏 Calculate the area of a rectangle by asking for base and height.

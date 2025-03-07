@@ -1,0 +1,1 @@
+// ATM 💵 Asks for an amount and verifies if it is a multiple of 10 before allowing the withdrawal.
