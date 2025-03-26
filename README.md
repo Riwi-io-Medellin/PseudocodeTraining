@@ -36,7 +36,7 @@ To maintain a clear order in the repository, follow the following format when na
 ### Example:
 
 1_file_name  
-2_other_example 
+2_other_example  
 3_third_document
 
 This standard facilitates the organization and search of files within the repository.
